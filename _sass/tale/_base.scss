@@ -40,9 +40,15 @@ a {
   text-decoration: none;
 }
 
+
 a.social {
-  color: $default-color;
+  color: $default-shade
 }
+
+a.social:hover {
+  color: $blue
+}
+
 
 blockquote {
   border-left: .25rem solid $grey-2;
