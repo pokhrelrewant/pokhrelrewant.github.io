@@ -40,6 +40,10 @@ a {
   text-decoration: none;
 }
 
+a.social {
+  color: $default-color;
+}
+
 blockquote {
   border-left: .25rem solid $grey-2;
   color: $grey-1;
@@ -64,3 +68,4 @@ img {
 td {
   vertical-align: top;
 }
+
