@@ -1,5 +1,5 @@
 ---
-label: Faith
+label: post
 hide_body: true
 fields:
 - type: text
@@ -14,5 +14,10 @@ fields:
 - type: boolean
   name: comments
   label: comments
+- name: post
+  type: text
+  config:
+    required: false
+  label: post
 pages:
 - _posts/hope.md
