@@ -8,6 +8,11 @@ fields:
 - type: text
   name: title
   label: title
+- name: post-image
+  type: file
+  config:
+    maxSize: 64
+  label: post-image
 - type: text
   name: author
   label: author
