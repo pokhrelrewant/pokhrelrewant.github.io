@@ -19,3 +19,5 @@ fields:
 - type: boolean
   name: comments
   label: comments
+pages:
+- _posts/hope.md
